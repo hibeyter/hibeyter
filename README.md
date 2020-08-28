@@ -8,11 +8,34 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+### Strong
+
+<br />
+
+<p align="left"> 
+ 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+
+</p>
+
+#### Medium
+
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="36" height="36"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="36" height="36"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
+ </p>
 
 
 <br />
 <br />
+
 <details>
   <summary>⏳ Github Stats</summary>
 <p><img src="https://github-readme-stats.vercel.app/api?username=hibeyter&amp;show_icons=true" alt="GitHub Stats"></p>
